@@ -6,8 +6,34 @@ Sample example to use Dash python framework for Dashboard Design
 
 See more on [Dash Gallery](https://dash.plot.ly/gallery)
 
-### _dash-layout
+### GET `_dash-layout`
 
-### _dash-dependencie 
+```
+{"type" : "Div", "namespace":"dash_html_components", 
+       { "props" :
+           { "children" : [ ... ] }
+       }
+}
+```
 
-### _dash-update-component
+### GET `_dash-dependencies`
+
+```
+[{"events":[],"inputs":[{"id":"...","property":"value"}],"output":{"id":"...","property":"figure"},"state":[]}]
+
+```
+### POST `_dash-update-component`
+
+POST Request
+```
+{ "output" : {} , "inputs" : [] }
+```
+
+POST Response
+```
+{ "response" : { "props" : { "figure" :
+     { data : [...]   },
+     { layout : {...} }
+}  }  }
+```
+           
