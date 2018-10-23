@@ -1,4 +1,4 @@
-# dash-iot-monitoring
+# IoT Dashboard Design with Dash python framework
 
 Sample example to use Dash python framework for Dashboard Design
 
