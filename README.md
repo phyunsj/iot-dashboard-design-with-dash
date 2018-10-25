@@ -8,7 +8,7 @@ See more on [Dash Gallery](https://dash.plot.ly/gallery)
 
 ## Example 1. Chart Display 
 
- Started with the first example from [Dash User Guide](https://dash.plot.ly/getting-started), set an interval value (3 secs) and defined [callbacks](https://dash.plot.ly/getting-started-part-2). 
+ Started with the first example from [Dash User Guide](https://dash.plot.ly/getting-started), set  interval=3000 (3 secs) and defined [callbacks](https://dash.plot.ly/getting-started-part-2). 
 
 <p align="center">
 <img src="https://github.com/phyunsj/iot-dashboard-design-with-dash/blob/master/images/node-red-example1.gif" width="500px"/>
