@@ -27,7 +27,7 @@ Sample example to use Dash python framework for IoT Dashboard Design
 
 ## Example 2. Wind Speed Monitoring
 
-The original work is done in [here(Dash Wind Streaming App)](https://github.com/plotly/dash-wind-streaming). The sample data `wind-data-db` is also provided. 
+The original work is done in [here(Dash Wind Streaming App)](https://github.com/plotly/dash-wind-streaming). The sample data `wind-data.db` is also provided. 
 
 <p align="center">
 <img src="https://github.com/phyunsj/iot-dashboard-design-with-dash/blob/master/images/dash-example2.png" width="650px"/>
