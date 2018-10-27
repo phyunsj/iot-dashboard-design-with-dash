@@ -28,7 +28,7 @@ See more on [Dash Gallery](https://dash.plot.ly/gallery)
 The original work is done in here. [Dash Wind Streaming App](https://github.com/plotly/dash-wind-streaming). The sample data `wind-data-db` is also provided. 
 
 <p align="center">
-<img src="https://github.com/phyunsj/iot-dashboard-design-with-dash/blob/master/images/dash-example2.png" width="600px"/>
+<img src="https://github.com/phyunsj/iot-dashboard-design-with-dash/blob/master/images/dash-example2.png" width="650px"/>
 </p>
 
 Install `node-red-node-sqlite` to access `wind-data-db`. Manually create `DATA` for `{ response: {props: {figure: { data : [DATA], layout : ...}`.  Node-RED (or any web application) serves two types of POST requests (`wind-speed` and `wind-direction`) for this example. The original work has one more POST request (`wind-histogram`).
@@ -36,7 +36,7 @@ Install `node-red-node-sqlite` to access `wind-data-db`. Manually create `DATA` 
 Using [plotly.js-dist](https://www.npmjs.com/package/plotly.js-dist) is another option. See [how to use `require` in Node-RED `function` node.](https://github.com/phyunsj/node-red-simple-blocking-queue)
 
 <p align="center">
-<img src="https://github.com/phyunsj/iot-dashboard-design-with-dash/blob/master/images/node-red-example2.gif" width="600px"/>
+<img src="https://github.com/phyunsj/iot-dashboard-design-with-dash/blob/master/images/node-red-example2.gif" width="650px"/>
 </p>
  
 
