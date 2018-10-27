@@ -7,8 +7,9 @@ Sample example to use Dash python framework for IoT Dashboard Design
 
 "Dash is a Python framework for building analytical web applications. No JavaScript required. Build on top of Plotly.js, React, and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical python code." ..._from [Dash by plotly](https://plot.ly/products/dash/)_
 
-- [Introducing Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503)
-- [Dash App Gallery](https://dash.plot.ly/gallery)
+**Additional Info on _Dash_**
+ - [Introducing Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503)
+ - [Dash App Gallery](https://dash.plot.ly/gallery)
 
 ## Example 1. Chart Display 
 
