@@ -38,7 +38,7 @@ Install `node-red-node-sqlite` to access `wind-data.db`. Manually create **_DATA
 [plotly.js-dist](https://www.npmjs.com/package/plotly.js-dist) can be used instead in `function` node. See [how to use `require` in Node-RED `function` node.](https://github.com/phyunsj/node-red-simple-blocking-queue)
 
 <p align="center">
-<img src="https://github.com/phyunsj/iot-dashboard-design-with-dash/blob/master/images/node-red-example2.gif" width="650px"/>
+<img src="https://github.com/phyunsj/iot-dashboard-design-with-dash/blob/master/images/node-red-example2-windspeed.gif" width="650px"/>
 </p>
  
 
