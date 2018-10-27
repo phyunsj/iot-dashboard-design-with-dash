@@ -46,4 +46,4 @@ Using [plotly.js-dist](https://www.npmjs.com/package/plotly.js-dist) is another 
 
 ## Other Consideration
 
-[shinydashboard for R](https://rstudio.github.io/shinydashboard/index.html)
+[shinydashboard](https://rstudio.github.io/shinydashboard/index.html) makes it easy to use Shiny to create dashboards
