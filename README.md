@@ -27,6 +27,8 @@
 
 The original work is done in [here(Dash Wind Streaming App)](https://github.com/plotly/dash-wind-streaming). The sample data `wind-data.db` is also provided. 
 
+**UPDATE** [Dash Wind Streaming App](https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-wind-streaming) : new location & new look.
+
 <p align="center">
 <img src="https://github.com/phyunsj/iot-dashboard-design-with-dash/blob/master/images/dash-example2.png" width="650px"/>
 </p>
